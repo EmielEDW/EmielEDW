@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @EmielEDW
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m not looking to collaborate
 - 📫 Reach me on emieldewaele@gmail.com
 
 <!---
