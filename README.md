@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @EmielEDW
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java, Unity, JavaScript, HTML & CSS
+- 🌱 I’m currently learning Java
 - 📫 Reach me on discord: EmielEDW
 
 <!---
